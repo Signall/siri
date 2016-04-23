@@ -1,5 +1,5 @@
 from exec_functions import *
-import datetime
+import datetime as dt
 
 
 def remind(matches: tuple, ords: tuple) -> tuple:
@@ -92,3 +92,5 @@ def date(matches: tuple, ords: tuple) -> tuple:
     :param ords: tuple
     :return: tuple
     """
+
+    return dt.datetime.now(), (null, 'x')

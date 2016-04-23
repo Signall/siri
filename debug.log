@@ -1,0 +1,39 @@
+2016-04-22 18:21:46,730 - __main__ - DEBUG - Match is [(<_sre.SRE_Match object; span=(0, 22), match='start a 2 second timer'>, (1, 2))]
+2016-04-22 18:21:46,730 - __main__ - DEBUG - There was a match!
+2016-04-22 18:21:46,731 - __main__ - DEBUG - match[0] = (<_sre.SRE_Match object; span=(0, 22), match='start a 2 second timer'>, (1, 2))
+2016-04-22 18:21:46,731 - __main__ - DEBUG - out = ('Setting a timer for 2 second', (<function start_timer at 0x01D16C48>, 'Done', 2, 'second'))
+2016-04-22 18:22:06,427 - __main__ - INFO - Done!
+2016-04-22 18:22:06,428 - __main__ - DEBUG - Match is []
+2016-04-22 18:22:06,428 - __main__ - DEBUG - Match is []
+2016-04-22 18:22:51,778 - __main__ - DEBUG - Match is [(<_sre.SRE_Match object; span=(0, 22), match='start a 2 second timer'>, (1, 2))]
+2016-04-22 18:22:51,779 - __main__ - DEBUG - There was a match!
+2016-04-22 18:22:51,779 - __main__ - DEBUG - match[0] = (<_sre.SRE_Match object; span=(0, 22), match='start a 2 second timer'>, (1, 2))
+2016-04-22 18:22:51,779 - __main__ - DEBUG - out = ('Setting a timer for 2 second', (<function start_timer at 0x01006C48>, 'Done', 2, 'second'))
+2016-04-22 18:26:51,588 - __main__ - DEBUG - Input was: start a 2 second timer
+2016-04-22 18:26:51,589 - __main__ - DEBUG - Match is [(<_sre.SRE_Match object; span=(0, 22), match='start a 2 second timer'>, (1, 2))]
+2016-04-22 18:26:51,589 - __main__ - DEBUG - There was a match!
+2016-04-22 18:26:51,589 - __main__ - DEBUG - match[0] = (<_sre.SRE_Match object; span=(0, 22), match='start a 2 second timer'>, (1, 2))
+2016-04-22 18:26:51,589 - __main__ - DEBUG - out = ('Setting a timer for 2 second', (<function start_timer at 0x01376C48>, 'Done', 2, 'second'))
+2016-04-22 18:27:27,505 - __main__ - DEBUG - Input was: date
+2016-04-22 18:27:27,506 - __main__ - DEBUG - Match is []
+2016-04-22 18:27:27,506 - __main__ - DEBUG - Match is []
+2016-04-22 18:27:27,506 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:19,377 - __main__ - DEBUG - Input was: date
+2016-04-22 18:28:19,378 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:19,378 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:19,378 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:19,378 - __main__ - ERROR - '_sre.SRE_Pattern' object is not iterable
+2016-04-22 18:28:38,983 - __main__ - DEBUG - Input was: date
+2016-04-22 18:28:38,984 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:38,984 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:38,984 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:38,985 - __main__ - DEBUG - Match is [(<_sre.SRE_Match object; span=(0, 4), match='date'>, 0)]
+2016-04-22 18:28:38,985 - __main__ - DEBUG - There was a match!
+2016-04-22 18:28:38,985 - __main__ - DEBUG - match[0] = (<_sre.SRE_Match object; span=(0, 4), match='date'>, 0)
+2016-04-22 18:28:38,985 - __main__ - DEBUG - out = (datetime.datetime(2016, 4, 22, 18, 28, 38, 985638), (<function null at 0x006472B8>, 'x'))
+2016-04-22 18:28:38,985 - __main__ - INFO - Done!
+2016-04-22 18:28:50,150 - __main__ - DEBUG - Input was: whats the date today
+2016-04-22 18:28:50,151 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:50,151 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:50,151 - __main__ - DEBUG - Match is []
+2016-04-22 18:28:50,151 - __main__ - DEBUG - Match is []
