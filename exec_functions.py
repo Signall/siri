@@ -64,6 +64,14 @@ def search_web(s):
     wb.open(url, new)
 
 
+def null(nothing):
+    """
+    For tasks that don't require another function.
+
+    :return: None
+    """
+    pass
+
 
 
 
